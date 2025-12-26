@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: potential_talents
+Version: 1.0.0
+Summary: ML-powered talent ranking system with active learning
+Author: Apziva Data Science Team
+License: Proprietary
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary
