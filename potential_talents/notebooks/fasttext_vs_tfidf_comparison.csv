@@ -1,0 +1,108 @@
+id,job_title,location,connection,rank_fasttext,fit_fasttext,fit_tfidf,rank_tfidf,rank_difference
+40,Seeking Human Resources HRIS and Generalist Positions,Greater Philadelphia Area,500+ ,1,0.9944657802581787,0.4169508690456814,3,2
+10,Seeking Human Resources HRIS and Generalist Positions,Greater Philadelphia Area,500+ ,2,0.9944657802581787,0.4169508690456814,4,2
+62,Seeking Human Resources HRIS and Generalist Positions,Greater Philadelphia Area,500+ ,3,0.9944657802581787,0.4169508690456814,5,2
+53,Seeking Human Resources HRIS and Generalist Positions,Greater Philadelphia Area,500+ ,4,0.9944657802581787,0.4169508690456814,6,2
+67,"Human Resources, Staffing and Recruiting Professional","Jackson, Mississippi Area",500+ ,5,0.994375717639923,0.26421236194345904,27,22
+29,Aspiring Human Resources Management student seeking an internship,"Houston, Texas Area",500+ ,6,0.994158935546875,0.35289885766015744,8,2
+27,Aspiring Human Resources Management student seeking an internship,"Houston, Texas Area",500+ ,7,0.994158935546875,0.35289885766015744,7,0
+78,Human Resources Generalist at Schwan's,Amerika Birleşik Devletleri,500+ ,8,0.9787135243415832,0.28776393305000736,21,13
+101,Human Resources Generalist at Loparex,"Raleigh-Durham, North Carolina Area",500+ ,9,0.9775867581367492,0.28776393305000736,19,10
+71,"Human Resources Generalist at ScottMadden, Inc.","Raleigh-Durham, North Carolina Area",500+ ,10,0.9686774134635925,0.28776393305000736,20,10
+68,Human Resources Specialist at Luxottica,Greater New York City Area,500+ ,11,0.9668644785881042,0.28505904522212655,22,11
+75,"Nortia Staffing is seeking Human Resources, Payroll & Administrative Professionals!!  (408) 709-2621","San Jose, California",500+ ,12,0.9596219778060913,0.31525843793432984,10,-2
+69,"Director of Human Resources North America, Groupe Beneteau","Greater Grand Rapids, Michigan Area",500+ ,13,0.9554749846458435,0.24932533070191484,28,15
+81,Senior Human Resources Business Partner at Heil Environmental,"Chattanooga, Tennessee Area",455,14,0.954835910320282,0.23130738351389923,34,20
+43,Human Resources Coordinator at InterContinental Buckhead Atlanta,"Atlanta, Georgia",500+ ,15,0.9428244352340698,0.26568046696552117,25,10
+56,Human Resources Coordinator at InterContinental Buckhead Atlanta,"Atlanta, Georgia",500+ ,16,0.9428244352340698,0.26568046696552117,26,10
+13,Human Resources Coordinator at InterContinental Buckhead Atlanta,"Atlanta, Georgia",500+ ,17,0.9428244352340698,0.26568046696552117,23,6
+65,Human Resources Coordinator at InterContinental Buckhead Atlanta,"Atlanta, Georgia",500+ ,18,0.9428244352340698,0.26568046696552117,24,6
+28,Seeking Human Resources Opportunities,"Chicago, Illinois",390,19,0.9408346829414368,0.46100243901176163,1,-18
+30,Seeking Human Resources Opportunities,"Chicago, Illinois",390,20,0.9408346829414368,0.46100243901176163,2,-18
+104,Director Of Administration at Excellence Logging,"Katy, Texas",500+ ,21,0.9287878394126892,0.2,42,21
+94,Seeking Human  Resources Opportunities. Open to travel and relocation.,Amerika Birleşik Devletleri,415,22,0.9240406665802002,0.3292664869118689,9,-13
+89,Director Human Resources  at EY,Greater Atlanta Area,349,23,0.9039228769302368,0.21750318191903523,35,12
+77,"Human Resources|
+Conflict Management|
+Policies & Procedures|Talent Management|Benefits & Compensation",Dallas/Fort Worth Area,409,24,0.9009589277267456,0.20118887514822542,36,12
+82,Aspiring Human Resources Professional | An energetic and Team-Focused Leader,"Austin, Texas Area",174,25,0.8447497030258179,0.16646031247940563,66,41
+76,Aspiring Human Resources Professional | Passionate about helping to create an inclusive and engaging work environment,"New York, New York",212,26,0.8443033049583435,0.15955643512957463,75,49
+97,Aspiring Human Resources Professional,"Kokomo, Indiana Area",71,27,0.8263479432106018,0.3056803286980959,12,-15
+85,RRP Brand Portfolio Executive at JTI (Japan Tobacco International),Greater Philadelphia Area,500+ ,28,0.8258918642997741,0.2,47,19
+66,Experienced Retail Manager and aspiring Human Resources Professional,"Austin, Texas Area",57,29,0.8192970469474793,0.13613391712362988,76,47
+37,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,30,0.8191607636451721,0.16583460370593608,68,38
+39,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,31,0.8191607636451721,0.16583460370593608,72,41
+7,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,32,0.8191607636451721,0.16583460370593608,67,35
+50,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,33,0.8191607636451721,0.16583460370593608,70,37
+52,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,34,0.8191607636451721,0.16583460370593608,73,39
+25,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,35,0.8191607636451721,0.16583460370593608,71,36
+9,Student at Humber College and Aspiring Human Resources Generalist,Kanada,61,36,0.8191607636451721,0.16583460370593608,69,33
+21,Aspiring Human Resources Professional,"Raleigh-Durham, North Carolina Area",44,37,0.8155479432106018,0.29488032869809594,16,-21
+33,Aspiring Human Resources Professional,"Raleigh-Durham, North Carolina Area",44,38,0.8155479432106018,0.29488032869809594,13,-25
+3,Aspiring Human Resources Professional,"Raleigh-Durham, North Carolina Area",44,39,0.8155479432106018,0.29488032869809594,15,-24
+17,Aspiring Human Resources Professional,"Raleigh-Durham, North Carolina Area",44,40,0.8155479432106018,0.29488032869809594,14,-26
+58,Aspiring Human Resources Professional,"Raleigh-Durham, North Carolina Area",44,41,0.8155479432106018,0.29488032869809594,18,-23
+46,Aspiring Human Resources Professional,"Raleigh-Durham, North Carolina Area",44,42,0.8155479432106018,0.29488032869809594,17,-25
+100,Aspiring Human Resources Manager | Graduating May 2020 | Seeking an Entry-Level Human Resources Position in St. Louis,"Cape Girardeau, Missouri",103,43,0.8150706469535828,0.16099028534396387,74,31
+99,Seeking Human Resources Position,"Las Vegas, Nevada Area",48,44,0.8109259335517883,0.31298921755609055,11,-33
+19,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,45,0.8056513872146607,0.12959938183580205,79,34
+15,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,46,0.8056513872146607,0.12959938183580205,80,34
+31,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,47,0.8056513872146607,0.12959938183580205,82,35
+14,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,48,0.8056513872146607,0.12959938183580205,77,29
+44,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,49,0.8056513872146607,0.12959938183580205,83,34
+57,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,50,0.8056513872146607,0.12959938183580205,81,31
+1,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,"Houston, Texas",85,51,0.8056513872146607,0.12959938183580205,78,27
+74,Human Resources Professional,Greater Boston Area,16,52,0.8050378669738769,0.18114573245645493,65,13
+88,Human Resources Management Major,"Milpitas, California",18,53,0.8019665452957153,0.09123816804243297,87,34
+72,Business Management Major and Aspiring Human Resources Manager,"Monroe, Louisiana Area",5,54,0.8002902526855469,0.11520074739544975,84,30
+61,HR Senior Specialist,San Francisco Bay Area,500+ ,55,0.7998979806900024,0.2,51,-4
+51,HR Senior Specialist,San Francisco Bay Area,500+ ,56,0.7998979806900024,0.2,61,5
+26,HR Senior Specialist,San Francisco Bay Area,500+ ,57,0.7998979806900024,0.2,54,-3
+38,HR Senior Specialist,San Francisco Bay Area,500+ ,58,0.7998979806900024,0.2,38,-20
+8,HR Senior Specialist,San Francisco Bay Area,500+ ,59,0.7998979806900024,0.2,45,-14
+60,Aspiring Human Resources Specialist,Greater New York City Area,1,60,0.7992695502281189,0.23498620300933973,31,-29
+49,Aspiring Human Resources Specialist,Greater New York City Area,1,61,0.7992695502281189,0.23498620300933973,33,-28
+6,Aspiring Human Resources Specialist,Greater New York City Area,1,62,0.7992695502281189,0.23498620300933973,29,-33
+24,Aspiring Human Resources Specialist,Greater New York City Area,1,63,0.7992695502281189,0.23498620300933973,32,-31
+36,Aspiring Human Resources Specialist,Greater New York City Area,1,64,0.7992695502281189,0.23498620300933973,30,-34
+102,Business Intelligence and Analytics at Travelers,Greater New York City Area,49,65,0.7937803526878356,0.019600000000000003,94,29
+79,Liberal Arts Major. Aspiring Human Resources Analyst.,"Baton Rouge, Louisiana Area",7,66,0.7903688672065735,0.10456835794859994,86,20
+73,"Aspiring Human Resources Manager, seeking internship in Human Resources.","Houston, Texas Area",7,67,0.7901651385307312,0.1961148858164667,64,-3
+103,Always set them up for Success,Greater Los Angeles Area,500+ ,68,0.7802997946739196,0.2,41,-27
+83,HR Manager at Endemol Shine North America,"Los Angeles, California",268,69,0.7801101538658142,0.10720000000000002,85,16
+98,Student,"Houston, Texas Area",4,70,0.7751974192619324,0.0016,99,29
+4,People Development Coordinator at Ryan,"Denton, Texas",500+ ,71,0.7613156557083129,0.2,40,-31
+34,People Development Coordinator at Ryan,"Denton, Texas",500+ ,72,0.7613156557083129,0.2,53,-19
+47,People Development Coordinator at Ryan,"Denton, Texas",500+ ,73,0.7613156557083129,0.2,62,-11
+22,People Development Coordinator at Ryan,"Denton, Texas",500+ ,74,0.7613156557083129,0.2,44,-30
+18,People Development Coordinator at Ryan,"Denton, Texas",500+ ,75,0.7613156557083129,0.2,43,-32
+59,People Development Coordinator at Ryan,"Denton, Texas",500+ ,76,0.7613156557083129,0.2,49,-27
+96,"Student at Indiana University Kokomo - Business Management - 
+Retail Manager at Delphi Hardware and Paint","Lafayette, Indiana",19,77,0.757112255191803,0.0076,97,20
+90,Undergraduate Research Assistant at Styczynski Lab,Greater Atlanta Area,155,78,0.7501624460220337,0.062,90,12
+70,"Retired Army National Guard Recruiter, office manager,  seeking a position in Human Resources.","Virginia Beach, Virginia",82,79,0.722798209476471,0.09071102866749273,88,9
+95,Student at Westfield State University,"Bridgewater, Massachusetts",57,80,0.7029639795303345,0.0228,92,12
+87,Bachelor of Science in Biology from Victoria University of Wellington,"Baltimore, Maryland",40,81,0.7015793595314026,0.016,95,14
+86,Information Systems Specialist and Programmer with a love for data and organization.,"Gaithersburg, Maryland",4,82,0.6784413782119751,0.0016,100,18
+92,Seeking employment opportunities within Customer Service or Patient Care,"Torrance, California",64,83,0.6769842940330505,0.05168222023798203,91,8
+84,Human Resources professional for the world leader in GIS software,"Highland, California",50,84,0.6658458304405213,0.07166564069330297,89,5
+5,Advisory Board Member at Celal Bayar University,"İzmir, Türkiye",500+ ,85,0.6505229592323303,0.2,46,-39
+48,Advisory Board Member at Celal Bayar University,"İzmir, Türkiye",500+ ,86,0.6505229592323303,0.2,48,-38
+23,Advisory Board Member at Celal Bayar University,"İzmir, Türkiye",500+ ,87,0.6505229592323303,0.2,55,-32
+35,Advisory Board Member at Celal Bayar University,"İzmir, Türkiye",500+ ,88,0.6505229592323303,0.2,37,-51
+54,Student at Chapman University,"Lake Forest, California",2,89,0.6406144960403443,0.0008,104,15
+11,Student at Chapman University,"Lake Forest, California",2,90,0.6406144960403443,0.0008,101,11
+41,Student at Chapman University,"Lake Forest, California",2,91,0.6406144960403443,0.0008,103,12
+63,Student at Chapman University,"Lake Forest, California",2,92,0.6406144960403443,0.0008,102,10
+80,Junior MES Engineer| Information Systems,"Myrtle Beach, South Carolina Area",52,93,0.6078471596717835,0.0208,93,0
+91,Lead Official at Western Illinois University,Greater Chicago Area,39,94,0.5687021952629089,0.015600000000000001,96,2
+93,Admissions Representative at Community medical center long beach,"Long Beach, California",9,95,0.5661122785568238,0.0036,98,3
+2,Native English Teacher at EPIK (English Program in Korea),Kanada,500+ ,96,0.49550400376319886,0.2,39,-57
+45,Native English Teacher at EPIK (English Program in Korea),Kanada,500+ ,97,0.49550400376319886,0.2,59,-38
+32,Native English Teacher at EPIK (English Program in Korea),Kanada,500+ ,98,0.49550400376319886,0.2,52,-46
+20,Native English Teacher at EPIK (English Program in Korea),Kanada,500+ ,99,0.49550400376319886,0.2,56,-43
+16,Native English Teacher at EPIK (English Program in Korea),Kanada,500+ ,100,0.49550400376319886,0.2,58,-42
+12,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR","Houston, Texas Area",500+ ,101,0.39880203902721406,0.2,57,-44
+64,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR","Houston, Texas Area",500+ ,102,0.39880203902721406,0.2,50,-52
+42,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR","Houston, Texas Area",500+ ,103,0.39880203902721406,0.2,63,-40
+55,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR","Houston, Texas Area",500+ ,104,0.39880203902721406,0.2,60,-44
